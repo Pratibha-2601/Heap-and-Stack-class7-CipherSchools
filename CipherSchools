@@ -1,4 +1,4 @@
-class primitiveDT {
+public class primitiveDT {
     public static void main(String[] args) {
         //Java is not purely object oriented beacuse primitive DataTypes are not object.
         //We can create onjects from them using the wrapper classes -> Integer, Double
